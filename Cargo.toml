@@ -2,8 +2,6 @@
 members = [
     'node',
     'pallets/freezer-pallet',
-	'pallets/pallet-nft',
-	'pallets/pallet-erc1155',
     'runtime',
 ]
 [profile.release]
